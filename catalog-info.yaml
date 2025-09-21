@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: hardware-usage
+  description: An application to monitoring resources like CPU, Memory and Disk
+spec:
+  type: service
+  owner: iagouvea@outlook.com
+  lifecicle: production
