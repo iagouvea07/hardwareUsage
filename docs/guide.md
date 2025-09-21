@@ -6,5 +6,5 @@
 python3 hardware.py
 ```
 
-### ai boa, pode usar!
+### ai boa, pode usar! :D
 
