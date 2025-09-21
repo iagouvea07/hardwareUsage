@@ -6,3 +6,5 @@
 python3 hardware.py
 ```
 
+### ai boa, pode usar!
+
