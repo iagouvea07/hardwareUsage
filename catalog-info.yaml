@@ -6,8 +6,7 @@ metadata:
   tags:
     - python
   annotations:
-    backstage.io/techdocs-ref: dir:./docs
-spec:
+    backstage.io/techdocs-ref: dir:.spec:
   type: service
   owner: admin
   lifecycle: production
