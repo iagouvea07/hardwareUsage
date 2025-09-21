@@ -6,7 +6,7 @@ metadata:
   tags:
     - python
   annotations:
-    backstage.io/techdocs-ref: .
+    backstage.io/techdocs-ref: /docs
 spec:
   type: service
   owner: admin
