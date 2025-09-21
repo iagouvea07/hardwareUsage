@@ -6,4 +6,4 @@ metadata:
 spec:
   type: service
   owner: iagouvea@outlook.com
-  lifecicle: production
+  lifecycle: production
