@@ -2,5 +2,6 @@ site_name: "Hardware Usage"
 nav:
   - Home: index.md
   - Guia: guide.md
+docs_dir: ./docs
 plugins:
   - techdocs-core
